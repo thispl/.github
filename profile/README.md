@@ -30,6 +30,6 @@ If you're a developer or ERPNext enthusiast interested in contributing or learni
 Have a question or need assistance with your ERPNext implementation? Reach out to us:
 - **Email**: abdulla.pi@groupteampro.com
 - **Website**: www.groupteampro.com
-- **LinkedIn**: (https://www.linkedin.com/company/teampro-hr-it-services-pvt-ltd/)
+- **LinkedIn**: https://www.linkedin.com/company/teampro-hr-it-services-pvt-ltd/
 
 Thank you for visiting our GitHub organization!
