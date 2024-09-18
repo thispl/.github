@@ -28,7 +28,7 @@ If you're a developer or ERPNext enthusiast interested in contributing or learni
 ## Contact Us
 
 Have a question or need assistance with your ERPNext implementation? Reach out to us:
-- **Email**: abdulla.pi@groupteampro.com
+- **Email**: it.sw@groupteampro.com
 - **Website**: www.groupteampro.com
 - **LinkedIn**: https://www.linkedin.com/company/teampro-hr-it-services-pvt-ltd/
 
